@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ava's Individual Repo
 
 You can use the [editor on GitHub](https://github.com/avabrooks/avarepo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
